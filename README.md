@@ -5,5 +5,11 @@
 
 - 💼 Postdoctoral Fellow at the [VeriVITAL](http://www.taylortjohnson.com/) group at Vanderbilt University.
 
-| <a href="https://github.com/mldiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mldiego&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=dracula" alt="Diego's github stats" /></a> | <a href="https://github.com/mldiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact&theme=buefy&hide_border=true&theme=dracula" /></a> |
+- 📈 Over 20 [publications](https://scholar.google.com/citations?user=kgpZCIAAAAAJ&hl=en)
+
+- 🤵 Developer of the open source Neural Network Verification Tool, [NNV](https://github.com/verivital/nnv)
+
+- ❤️ Python, MATLAB and tennis
+
+| <a href="https://github.com/mldiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mldiego&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/mldiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
