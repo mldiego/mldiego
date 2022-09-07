@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mldiego.github.io"><img width="85%" alt="Hello, I'm  Diego!" src="diegoT.jpg" /></a></p>
+<p align="center"><a href="https://mldiego.github.io"><img width="85%" alt="Hello, I'm  Diego!" src="diegoT.png" /></a></p>
 
 
 #### About me
