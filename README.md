@@ -1,22 +1,11 @@
 ### Hi there 👋
 
-<!--
-**mldiego/mldiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Diego Manzanas Lopez**, currently a Postdoctoral Fellow at the [VeriVITAL](http://www.taylortjohnson.com/) group at Vanderbilt University.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=mldiego&count_private=true&show_icons=true&theme=dracule)
+<!-- ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=mldiego&count_private=true&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact)](https://github.com/mldiego/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact&theme=dracula)](https://github.com/mldiego/github-readme-stats)  -->
 
+| <a href="https://github.com/mldiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mldiego&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=dracula" alt="Diego's github stats" /></a> | <a href="https://github.com/mldiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact&theme=buefy&hide_border=true&theme=dracula" /></a> |
+| ------------- | ------------- |
