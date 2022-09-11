@@ -11,5 +11,5 @@
 
 - ❤️ Python, MATLAB and tennis
 
-| <a href="https://github.com/mldiego"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mldiego&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/mldiego"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mldiego"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mldiego&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Diego's github stats" /></a> | <a href="https://github.com/mldiego"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldiego&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
