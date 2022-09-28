@@ -3,7 +3,7 @@
 
 #### About me
 
-- 💼 Postdoctoral Fellow at the [VeriVITAL](http://www.taylortjohnson.com/) group at Vanderbilt University.
+- 💼 Postdoctoral Scholar at the [VeriVITAL](http://www.taylortjohnson.com/) group at Vanderbilt University.
 
 - 📈 Over 20 [publications](https://scholar.google.com/citations?user=kgpZCIAAAAAJ&hl=en)
 
